@@ -24,8 +24,15 @@
   }
 
   .total {
+    flex-direction: column;
     margin-top: 30px;
     margin-left: auto;
     font-size: 36px;
+  }
+
+  .message {
+    font-size: 1.5rem;
+    color: red;
+    margin-top: 40px;
   }
 }
